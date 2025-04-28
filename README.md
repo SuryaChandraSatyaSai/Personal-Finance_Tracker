@@ -6,7 +6,7 @@ An interactive and visually appealing **Personal Finance Dashboard** built in **
 
 ## 📸 Visual Preview
 
-![Finance Dashboard Preview](./asset/PersonalFinanceDashboard.png)
+![Finance Dashboard Preview](https://github.com/SuryaChandraSatyaSai/Personal-Finance_Tracker/blob/main/Dashboard_preview.png)
 
 ---
 
